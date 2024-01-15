@@ -1,0 +1,17 @@
+.feedback_container {
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.btn_list {
+    display: flex;
+    list-style: none;
+    gap: 12px;
+}
+
+.btn {
+    cursor: pointer;
+    padding: 8px 10px;
+    background-color: rgb(249, 246, 246);
+    border-color: rgb(168, 168, 168);
+}
